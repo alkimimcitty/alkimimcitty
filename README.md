@@ -4,7 +4,7 @@
 
 <p align="justify">Ao longo de oito anos no digital, superar desafios virou rotina. Buscando constantemente me aprimorar no mercado, não apenas como especialista em tráfego, descobri a inteligência artificial e foi amor à primeira vista. Essa descoberta acendeu uma curiosidade profunda, levando-me a explorar esse campo apaixonante e a integrar novas tecnologias e ideias em minhas estratégias. Desde então, NÃO FUI MAIS O MESMO.
 <br>
-Atualmente, estou cursando Ciência de Dados e Economia. Essa escolha reflete meu desejo de expandir meu leque de conhecimentos e aplicar essas habilidades na resolução de problemas complexos, bem como na criação de soluções inovadoras que possam transformar significativamente o mercado.</p>
+No momento, estou cursando Ciência de Dados e Economia. Essa escolha é motivada pelo meu desejo não apenas de ampliar meu leque de conhecimentos, mas também de aplicar essas habilidades na resolução de problemas complexos e na criação de soluções inovadoras que possam transformar significativamente o mercado.</p>
 
 
 ### Conecte-se comigo
