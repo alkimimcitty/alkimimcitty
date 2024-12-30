@@ -3,8 +3,7 @@
 # Antônio Miguel
 
 <p align="justify">Ao longo de oito anos no digital, superar desafios virou rotina. Sempre buscando me aprimorar no mercado, me interessei pela inteligência artificial, o que transformou completamente minha forma de trabalhar. Essa nova área abriu um leque de possibilidades, permitindo-me integrar novas tecnologias e ideias em minhas estratégias de maneira eficaz.
-<br>
-No momento, estou cursando Ciência de Dados. Escolhi esse caminho com o objetivo de ampliar meu conhecimento e aplicar essas competências na resolução de problemas complexos e no desenvolvimento de soluções inovadoras que possam impactar significativamente o mercado.</p>
+<br></p>
 
 
 ### Conecte-se comigo
